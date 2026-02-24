@@ -1,5 +1,0 @@
-{
-  "url": "https://www.iyayn.web.id/",
-  "createdAt": "2026-02-23T14:14:34.258Z",
-  "duration": "1"
-}
