@@ -1,5 +1,0 @@
-{
-  "url": "https://www.canva.com/design/DAHCFviMeV0/fFp3FkSTnUrq6Ev0ftxHfA/edit?utm_content=DAHCFviMeV0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
-  "createdAt": "2026-02-23T06:33:05.776Z",
-  "duration": "permanent"
-}
